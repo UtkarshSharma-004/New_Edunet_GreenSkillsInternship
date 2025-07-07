@@ -102,7 +102,7 @@ gr.Interface(
 
 ## 📬 Connect with Me
 
-- 📧 Email: your_email@example.com  
+- 📧 Email: utkarshsharma.ai.developer@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/utkarsh-sharma-16126a2a0/)  
 - 💻 [GitHub](https://github.com/UtkarshSharma-004)
 
